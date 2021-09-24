@@ -1,1 +1,1 @@
-Hello! I'm Kjonaas, or KJ. I'm a Discord bot dev, and a huge open source nerd. My bot GlobeBot is a purely open source discord bot that uses configuration files. I'm currently trying to learn SQL and Java, and a little bit of JavaScript. You can reach me via hello@kjonaas.xyz.
+Hello! I'm Kjonaas, or KJ. I'm an open source developer, a vegan, and a student. I mainly us.e Python but I'm learning a bit of Kotlin and C++.
