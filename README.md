@@ -9,14 +9,17 @@ Secondarily, I use an Intel MacBook running MacOS 11.6.
 I love to play video games, specifically Team Fortress 2 and more recently ULTRAKILL.
 I'm a huge fan of custom mechanical keyboards and use one on my desktop every day!
 When I'm not gaming or thinking about mechs, I'm usually watching or reading JoJo's Bizarre Adventure.
-## Favorite Music:
-Here's a list of some favorite musical artists of mine
-* Afourteen
-* Go! Child
-* AJJ
-* Teenage Disaster
-* atlas
-* The Decemberists
+## Music I like
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## List of musical artists I like:
+  * Afourteen
+  * Go! Child
+  * AJJ
+  * Teenage Disaster
+  * atlas
+  * The Decemberists
 * MF DOOM/Madvillain/DANGERDOOM etc.
 * Dylan Cozart
 * glaive
@@ -32,3 +35,5 @@ Here's a list of some favorite musical artists of mine
 * Newgrounds Death Rugby
 * Nascar Aloe
 * The Mechanisms
+
+</details>
