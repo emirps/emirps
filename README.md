@@ -1,4 +1,5 @@
 Hello! I'm Kjonaas, or KJ. I'm an open source developer, a vegan, and a student. I mainly use Python but I'm learning a bit of Kotlin and C++.
+<pre>
    / \  | | |   __ _  ___   ___   __| |   __| | _____   _(_) |___
   / _ \ | | |  / _` |/ _ \ / _ \ / _` |  / _` |/ _ \ \ / / | / __|
  / ___ \| | | | (_| | (_) | (_) | (_| | | (_| |  __/\ V /| | \__ \
@@ -16,6 +17,8 @@ Hello! I'm Kjonaas, or KJ. I'm an open source developer, a vegan, and a student.
 | |_| | | | | (_| |  __/ |    | |_| | | |  __/ | | | (_| | | | | |_
  \__,_|_| |_|\__,_|\___|_|     \__|_| |_|\___| |_|_|\__, |_| |_|\__|
                                                     |___/
+
+</pre>                                                   
 ## Text Editor:
 I use Vim with a fairly simple 40 line .vimrc, using the font JetBrains Mono.
 ## Computer specs:
