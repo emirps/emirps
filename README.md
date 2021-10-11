@@ -23,7 +23,7 @@ Hello! I'm Kjonaas, or KJ. I'm an open source developer, a vegan, and a student.
 I use Vim with a fairly simple 40 line .vimrc, using the font JetBrains Mono.
 ## Computer specs:
 I primarily use a Windows 10 Desktop with an AMD Ryzen 3700x, 32 gigabytes of memory, 5 terabytes of storage, and an RTX 3070ti. I use Bash on Ubuntu On Windows or cmder as a terminal on this system.
-Secondarily, I use an Intel MacBook running MacOS 11.6. I use iTerm2 with Zsh and [Typewritten](https://typewritten.dev/), although you'll find me switching between that and [powerline10k](https://github.com/romkatv/powerlevel10k)
+Secondarily, I use an Intel MacBook running MacOS 11.6. I use iTerm2 with Zsh and [Typewritten](https://typewritten.dev/), although you'll find me switching between that and [powerline10k](https://github.com/romkatv/powerlevel10k).
 ## Personal hobbies:
 I love to play video games, specifically Team Fortress 2, Minecraft, and more recently ULTRAKILL.
 I'm a huge fan of custom mechanical keyboards and use the Blade60 on my desktop every day!
