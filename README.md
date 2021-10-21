@@ -56,6 +56,8 @@ When I'm not gaming or thinking about mechs, I'm usually watching or reading JoJ
 * The Mechanisms
 
 </details>
+
 ## Here's a few of my favorite GitHub repositories:
-
-
+* [qmk](https://github.com/qmk/qmk_firmware)
+* [nvchad](https://github.com/NvChad/NvChad)
+* [VLC](https://github.com/videolan/vlc)
