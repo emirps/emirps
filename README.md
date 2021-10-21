@@ -20,7 +20,7 @@ Hello! I'm Kjonaas, or KJ. I'm an open source developer, a vegan, and a student.
 
 </pre>                                                   
 ## Text Editor:
-I use Vim with a fairly simple 40 line .vimrc, using the font JetBrains Mono.
+I use Neovim, specifically with [NvChad](https://github.com/NvChad/NvChad)
 ## Computer specs:
 I primarily use a Windows 10 Desktop with an AMD Ryzen 3700x, 32 gigabytes of memory, 5 terabytes of storage, and an RTX 3070ti. I use Bash on Ubuntu On Windows or cmder as a terminal on this system.
 Secondarily, I use an Intel MacBook running MacOS 11.6. I use iTerm2 with Zsh and [Typewritten](https://typewritten.dev/), although you'll find me switching between that and [powerline10k](https://github.com/romkatv/powerlevel10k).
@@ -56,3 +56,7 @@ When I'm not gaming or thinking about mechs, I'm usually watching or reading JoJ
 * The Mechanisms
 
 </details>
+## Here's a few of my favorite GitHub repositories
+[qmk](https://github.com/qmk/qmk_firmware)
+[nvchad](https://github.com/NvChad/NvChad)
+[VLC](https://github.com/videolan/vlc)
