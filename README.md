@@ -54,6 +54,8 @@ When I'm not gaming or thinking about mechs, I'm usually watching or reading JoJ
 * Newgrounds Death Rugby
 * Nascar Aloe
 * The Mechanisms
+* Alice Gas
+* 100 Gecs
 
 </details>
 
