@@ -18,7 +18,8 @@ Hello! I'm Kjonaas, or KJ. I'm an open source developer, a vegan, and a student.
  \__,_|_| |_|\__,_|\___|_|     \__|_| |_|\___| |_|_|\__, |_| |_|\__|
                                                     |___/
 
-</pre>                                                   
+</pre>
+![](unknhardknown.png)
 ## Text Editor:
 I use Neovim, specifically with [NvChad](https://github.com/NvChad/NvChad) with some personal tweaks.
 ## Computer specs:
