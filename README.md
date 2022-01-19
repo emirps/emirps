@@ -19,7 +19,7 @@ Hello! I'm Kjonaas, or KJ. I'm an open source developer, a vegan, and a student.
                                                     |___/
 
 </pre>
-![](unknhardknown.png)
+![](unknhardown.png)
 ## Text Editor:
 I use Neovim, specifically with [NvChad](https://github.com/NvChad/NvChad) with some personal tweaks.
 ## Computer specs:
