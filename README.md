@@ -1,4 +1,4 @@
-hiya. im kjonaas, open source devloper, vegan, and student. i make silly little things in python.
+hi. im kjonaas. i like rust, python, lua, and c#.
 
 ![](unknhardown.png)
 
